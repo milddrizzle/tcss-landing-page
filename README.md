@@ -1,6 +1,6 @@
-#Tailwind CSS Landing Page Template
+# Tailwind CSS Landing Page Template
 
-##Landing Page is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Ramos Lee](https://mild-port-folio.web.app/).
+## Landing Page is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Ramos Lee](https://mild-port-folio.web.app/).
 
 
 ## Getting Started
